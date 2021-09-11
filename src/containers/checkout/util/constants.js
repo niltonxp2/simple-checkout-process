@@ -1,0 +1,5 @@
+export const STEPS = {
+  CART: 'SACOLA',
+  PAYMENT: 'PAGAMENTO',
+  CONFIRMATION: 'CONFIRMAÇÃO'
+}
